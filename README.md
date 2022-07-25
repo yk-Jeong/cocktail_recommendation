@@ -7,7 +7,7 @@
 ### 진행과정
 데이터 수집 및 정제 → 모델 구축 → DB 업로드 → 웹 애플리케이션 탑재
 - 활용 데이터 : thecocktailDB[https://www.thecocktaildb.com/] 의 데이터베이스 api 활용
-- 활용 모델(backbone): 추천 시스템
+- 활용 모델(backbone): 추천 시스템 <- 머선 추천 시스템인데여?? 
 - 프레임워크: flask
 
 ### 파일 설명
