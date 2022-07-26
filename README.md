@@ -16,7 +16,7 @@
 ### 데이터 세트의 특징
 
 - 구성: feature의 종류, 데이터 개수, 각 feature의 자료형 등 dataset을 설명할 수 있는 모든 것 (←kaggle에 올라오는 notes를 참고해보아도 좋을 듯)
-- 출처: kaggle, aihub, 공공데이터포털 등등
+- 출처: TheCocktailDB openAPI [https://www.thecocktaildb.com/]
 - 데이터 세트 선택 근거: (왜 이 데이터 세트인지)
 
 ### 문제해결 과정
