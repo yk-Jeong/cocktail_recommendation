@@ -1,7 +1,7 @@
 # 🍸cocktail recommendation model webapp 
 추천 시스템 기반 칵테일 추천 모델&웹 애플리케이션 제작
 
->💭 **최종 수정** 2022.07.25.
+>💡 **최종 수정** 2022.07.25.
 
 ### 프로젝트 개요
 
@@ -14,13 +14,13 @@
 - **presentation.pdf** 프레젠테이션을 위해 제작한 ppt의 pdf 버전
 
 >💭 **작업환경** `google colab` `flask` `PostgreSQL`
->
+<br>
 >**진행기간** 1차 00.00.00~00.00.00 / 수정 00.00.00~
 
 ### 데이터 세트의 특징
 
 - 구성: feature의 종류, 데이터 개수, 각 feature의 자료형 등 dataset을 설명할 수 있는 모든 것 (←kaggle에 올라오는 notes를 참고해보아도 좋을 듯)
-- 출처: TheCocktailDB openAPI [https://www.thecocktaildb.com/]
+- 출처: [TheCocktailDB openAPI] https://www.thecocktaildb.com/
 - 데이터 세트 선택 근거: (왜 이 데이터 세트인지)
 
 ### 문제해결 과정
