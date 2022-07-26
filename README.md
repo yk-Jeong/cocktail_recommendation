@@ -13,9 +13,9 @@
 - **code.ipynb** 분석을 위해 작성한 전체 코드 
 - **presentation.pdf** 프레젠테이션을 위해 제작한 ppt의 pdf 버전
 
->💭 **작업환경** `google colab` `flask` `PostgreSQL`
-<br>
->**진행기간** 1차 00.00.00~00.00.00 / 수정 00.00.00~
+>💭 **작업환경** `google colab` `flask` `PostgreSQL` `VScode`
+>
+>**진행기간** 1차 21.12.00~00.00.00 / 수정 22.07.00~
 
 ### 데이터 세트의 특징
 
